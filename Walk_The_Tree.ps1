@@ -12,4 +12,4 @@ function walk($Path){
     }
 }
 
-walk("C:\Users\Scott\Desktop\test_folder");
+walk("$env:userprofile\Desktop\test_folder");
